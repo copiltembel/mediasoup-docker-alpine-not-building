@@ -1,1 +1,5 @@
-# mediasoup-flatbuffers-buildx-arm64-bug
+# mediasoup-build-arm64-alpine-bug
+
+`npm i`
+`docker build .`
+
